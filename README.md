@@ -86,7 +86,7 @@ yarn dev
 
   <h3 align='center'> Developed By Pedro Arruda </h3> 
   <div align='center'> 
-    <a href="mailto:seu.email@gmail.com"  title="Gmail" style='height: 40px'>
+    <a href="mailto:dev.pedro.arruda@gmail.com"  title="Gmail" style='height: 40px'>
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail" style='height: 25px'/></a>
     <a href="https://www.linkedin.com/in/pedro-scucuglia-arruda/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" style='height: 25px' alt="LinkedIn"/></a>
